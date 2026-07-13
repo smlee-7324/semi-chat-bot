@@ -1,0 +1,6 @@
+{
+  "name": "반도체 온보딩 멘토 챗봇",
+  "description": "반도체 8대 공정 및 현업 실무 가이드를 제공하는 친절하고 전문적인 온보딩 전담 멘토 챗봇 서비스입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
